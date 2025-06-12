@@ -2,7 +2,7 @@ label: 'mediator-acapy'
 
 # Endpoints
 endpoint:
-  - 'ws://192.168.0.82:8000'
+  - 'ws://med.keywe.site/'
   - 'http://192.168.0.82:8010'
 
 
